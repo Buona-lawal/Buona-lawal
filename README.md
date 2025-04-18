@@ -1,51 +1,62 @@
-<h1 align="center">Hey, I’m Buona!</h1>
-<p align="center">
-  ✍️ Writer | 👻 Ghostwriter | 💻 Future Web Dev  
-  <br>
-  Building dreams one word (and one bug) at a time.
-</p>
+<h1 align="center">Hi, I'm Buona</h1>
+<p align="center">Writer | Ghostwriter | Aspiring Web Developer | Self-Taught Computer Science Learner</p>
 
 ---
 
-### 🌸 About Me
-- 📚 English student turned multi-skill slayer  
-- 🧠 Learning Computer Science + Psychology  
-- ✨ Building Annua Aesthetics  
-- ⚡ Currently learning: HTML, CSS, JavaScript  
+### About Me
+
+I’m a versatile writer with a strong foundation in English and a growing skill set in web development and cognitive science. I specialize in ghostwriting, content creation, and digital storytelling — with a focus on clarity, impact, and emotional connection.
+
+Currently upskilling in Computer Science and Psychology to enhance my ability to build and contribute to meaningful, user-focused digital projects.
 
 ---
 
-### 🛠️ My Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,github,notion,vscode" alt="tools" />
+### Core Skills
+
+- **Writing & Editing**  
+  Ghostwriting · Article Writing · SEO Copy · Content Strategy
+
+- **Technical Skills**  
+  HTML · CSS · JavaScript · GitHub · VS Code
+
+- **Tools**  
+  Notion · Google Docs · Canva
 
 ---
 
-### ✨ What I Do
-- Ghostwriting stories that *feel like yours*  
-- Creating clean, aesthetic content  
-- Studying hard to be *soft girl techie CEO energy*
+### Projects & Goals
+
+- Building a personal portfolio site  
+- Contributing to open-source & freelance writing projects  
+- Exploring UX and frontend web development  
+- Studying cognitive science & behavioral psychology to enhance my creative and technical outputs
 
 ---
 
-### 🔗 Let’s Link Up
-[![Linktree](https://img.shields.io/badge/Linktree-Buona__Writes-43E660?logo=Linktree&logoColor=white)](https://linktr.ee/buona_writes)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?logo=whatsapp&logoColor=white)](https://wa.me/234XXXXXXXXXX)
-[![Snapchat](https://img.shields.io/badge/Snapchat-BuonaSnap-FAC123?logo=snapchat&logoColor=white)](https://snapchat.com/add/your_snap)
+### Services
+
+- Ghostwriting (longform & shortform content)  
+- Web & app copywriting  
+- Content creation and blog writing 
+- Editing and proofreading
+
+*Available for freelance projects and collaborations.*
 
 ---
 
-### ☁️ Currently Working On
-- My personal Carrd website  
-- My first GitHub-hosted project  
-- Finishing exams like a baddie  
+### Get in Touch
+
+- [Linktree – All Links](https://linktr.ee/buona_writes)  
+- [WhatsApp – Contact Me](https://wa.me/234XXXXXXXXXX)  
+- Snapchat:@buonaleelawal  
+
 
 ---
 
-### ✨ Quote I Live By
-> “Greatness isn’t given. It’s taken.”  
-> *And I’m taking mine, one keystroke at a time.*
+### GitHub Stats
+
+![Buona's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox)
 
 ---
 
-### 📈 GitHub Stats
-![Buona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+> “Discipline is choosing between what you want now and what you want most.”
