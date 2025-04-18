@@ -47,7 +47,8 @@ Currently upskilling in Computer Science and Psychology to enhance my ability to
 ### Get in Touch
 
 - [Linktree – All Links](https://linktr.ee/buona_writes)  
-- [WhatsApp – Contact Me](https://wa.me/234XXXXXXXXXX)  
+- [WhatsApp – Contact Me](https://wa.me/2347046581012
+- )  
 - Snapchat:@buonaleelawal  
 
 
